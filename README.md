@@ -63,4 +63,5 @@ Instructor: Prof. Casey Bennett
 Group 8: Heema Shah, Anas Kapadia
 
 **Heema Shah** — MS Health Informatics, DePaul University
+https://www.linkedin.com/in/heemashah1107/ 
 
