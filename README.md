@@ -53,7 +53,7 @@ Microsoft Excel (XLOOKUP, descriptive statistics, linear regression, data visual
 - `descriptive_and_regression.xlsx` — cleaned dataset, descriptive statistics, and regression analysis
 - `chart1.xlsx` — scatter plot source data and chart
 - `scatter_plot.png` — final visualization of the food access / obesity relationship
-- `analysis_and_regression.docx` — written breakdown of methodology and results
+- `analysis_and_regression.pdf` — written breakdown of methodology and results
 - `Final_Written_Project_DSC_510__group_8.pdf` — full final project paper, including literature review and proposed intervention
 
 ## About
@@ -63,4 +63,4 @@ Instructor: Prof. Casey Bennett
 Group 8: Heema Shah, Anas Kapadia
 
 **Heema Shah** — MS Health Informatics, DePaul University
-[LinkedIn](#)
+
